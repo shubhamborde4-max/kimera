@@ -1,0 +1,6 @@
+{
+  "name": "Kimera AI Style",
+  "description": "Chairside AI hairstyle preview and consultation tool for Kimera salon",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
